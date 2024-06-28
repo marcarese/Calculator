@@ -4,7 +4,6 @@
 # functions, returns
 # if statements
 # comparators
-#this is a test
 
 from CalculatorFunctions import errorCheck
 from CalculatorDictionaries import Menu
@@ -23,7 +22,7 @@ print(Menu[userSelection](userSelection))
 '''
     (*)Translate algorithm from matlab/python to C/C++
 
-    (*)Profiling the code, understanding how long the functions take to execute, how much memory does the code take, break it down into sections. Clock speed, cycles. 
+    Profiling the code, understanding how long the functions take to execute, how much memory does the code take, break it down into sections. Clock speed, cycles. 
 
     Partial deployment. Get microcontroller working on the FPGA and talking to the sensors. Using I2c if desired. Reading sensor data on the microcontroller. 
 
